@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(191, 204, 76);
+    background-color: rgb(191, 204, 76);  
+    color: #000;
 }  
 p{
     color: rgb(112, 165, 42);
@@ -7,3 +8,4 @@ p{
 h1{
     font-size: 50;
 }
+
